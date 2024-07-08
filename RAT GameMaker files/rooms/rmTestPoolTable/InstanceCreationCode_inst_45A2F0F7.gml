@@ -1,0 +1,1 @@
+sprite_index = PROP_POOL_BALL_GREEN_STRIPE; 

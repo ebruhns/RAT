@@ -1,0 +1,42 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "parBall",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oHole","path":"objects/oHole/oHole.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [],
+  "parent": {
+    "name": "Billiards",
+    "path": "folders/Objects/JobObjects/Billiards.yy",
+  },
+  "parentObjectId": {
+    "name": "parPhysics",
+    "path": "objects/parPhysics/parPhysics.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.8,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.8,
+  "physicsObject": true,
+  "physicsRestitution": 0.8,
+  "physicsSensor": false,
+  "physicsShape": 0,
+  "physicsShapePoints": [
+    {"x":4.0,"y":5.0,},
+    {"x":3.0,"y":5.0,},
+  ],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "PROP_POOL_BALL_CUE",
+    "path": "sprites/PROP_POOL_BALL_CUE/PROP_POOL_BALL_CUE.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+}

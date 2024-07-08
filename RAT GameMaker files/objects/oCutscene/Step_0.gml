@@ -1,0 +1,2 @@
+
+scrExecuteAlt(currentScene, currentSceneArray);
